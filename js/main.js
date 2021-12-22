@@ -1,0 +1,11 @@
+let nombre = prompt("Ingrese su nombre");
+let apellido = prompt("Ingrese su apellido");
+alert("Hola " + nombre +" "+ apellido);
+let numero1 = prompt("Ingresa un numero");
+let numero2 = prompt("Ingresa otro numero");
+let num1 = parseInt(numero1);
+let num2 = parseInt(numero2);
+let resultado = num1 + num2;
+alert("El resultado de la suma es: " + resultado);
+let nacionalidad = prompt("Ingrese su nacionalidad");
+alert("gracias " + nombre +" "+ apellido +" de "+ nacionalidad + " por tu tiempo!"); 
